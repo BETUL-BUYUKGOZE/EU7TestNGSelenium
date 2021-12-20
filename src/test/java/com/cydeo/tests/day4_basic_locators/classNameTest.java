@@ -20,10 +20,7 @@ public class classNameTest {
         //multiple buttons header print
         System.out.println(driver.findElement(By.className("h3")).getText());
 
-        System.out.println();
-        System.out.println("a");
-        System.out.println("driver = " + driver);
-        System.out.println("c");
+
         driver.quit();
     }
 }
