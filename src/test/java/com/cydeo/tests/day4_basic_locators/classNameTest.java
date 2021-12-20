@@ -22,6 +22,7 @@ public class classNameTest {
 
         System.out.println();
         System.out.println("a");
+        System.out.println("driver = " + driver);
 
         driver.quit();
     }
