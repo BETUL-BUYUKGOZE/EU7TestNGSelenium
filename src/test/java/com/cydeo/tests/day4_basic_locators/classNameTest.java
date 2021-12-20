@@ -21,6 +21,7 @@ public class classNameTest {
         System.out.println(driver.findElement(By.className("h3")).getText());
 
         System.out.println();
+        System.out.println("a");
 
         driver.quit();
     }
