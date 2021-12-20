@@ -34,5 +34,6 @@ public class BeforeAfterMethod {
     public void tearDownClass(){
         System.out.println("--AFTER CLASS--");
         System.out.println("Some reporting code here");
+        System.out.println("Closing Browser,Quit");
     }
 }
