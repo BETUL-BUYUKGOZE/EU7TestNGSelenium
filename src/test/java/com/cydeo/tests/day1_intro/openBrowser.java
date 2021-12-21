@@ -25,6 +25,9 @@ public class openBrowser {
         driver.get("https://www.facebook.com");
 
 
+        System.out.println("a");
+
+
 
     }
 
