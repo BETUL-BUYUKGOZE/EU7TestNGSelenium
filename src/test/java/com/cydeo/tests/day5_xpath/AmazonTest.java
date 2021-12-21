@@ -37,7 +37,7 @@ public class AmazonTest {
             System.out.println("FAIL");
             System.out.println("expectedResult = " + expectedResult);
             System.out.println("resultText = " + resultText);
-            System.out.println("resultText = " + resultText);
+           
 
         }
 
