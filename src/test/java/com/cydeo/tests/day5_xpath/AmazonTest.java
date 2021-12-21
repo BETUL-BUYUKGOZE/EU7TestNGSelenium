@@ -37,16 +37,14 @@ public class AmazonTest {
             System.out.println("FAIL");
             System.out.println("expectedResult = " + expectedResult);
             System.out.println("resultText = " + resultText);
+           
 
         }
 
         driver.quit();
 
 
-        System.out.println("1");
-        System.out.println("2");
 
-        
 
 
     }
